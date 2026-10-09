@@ -29,4 +29,13 @@
         <agotado />
     </teclado>
 
+    <teclado id="tec-04">
+        <nombre>Wooting 60HE v2</nombre>
+        <formato>60%</formato>
+        <precio unidad="EUR">174,99</precio>
+        <peso unidad="kg">0.945</peso>
+        <descuento unidad="porcentaje">15.00</descuento>
+        <agotado />
+    </teclado>
+
 </catalogo>
