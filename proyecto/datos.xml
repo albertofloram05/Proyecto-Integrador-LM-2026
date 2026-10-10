@@ -5,28 +5,25 @@
     <teclado id="tec-01">
         <nombre>Keychron Q1 Pro</nombre>
         <formato>75%</formato>
-        <precio unidad="EUR">199.99</precio>
-        <peso unidad="kg">1.85</peso>
-        <descuento unidad="porcentaje">5.00</descuento>
-        <disponible />
+        <precio unidad="EUR">228.99</precio>
+        <peso unidad="kg">1.736</peso>
+        <descuento unidad="porcentaje">0.00</descuento>
     </teclado>
 
     <teclado id="tec-02">
         <nombre>Akko 3068B Plus</nombre>
         <formato>65%</formato>
-        <precio unidad="EUR">89.50</precio>
-        <peso unidad="kg">0.75</peso>
-        <descuento unidad="porcentaje">0.00</descuento>
-        <disponible />
+        <precio unidad="EUR">107.09</precio>
+        <peso unidad="kg">0.70</peso>
+        <descuento unidad="porcentaje">20.00</descuento>
     </teclado>
 
     <teclado id="tec-03">
         <nombre>GMMK Pro</nombre>
         <formato>75%</formato>
-        <precio unidad="EUR">169.90</precio>
-        <peso unidad="kg">1.50</peso>
-        <descuento unidad="porcentaje">10.00</descuento>
-        <agotado />
+        <precio unidad="EUR">229.99</precio>
+        <peso unidad="kg">1.51</peso>
+        <descuento unidad="porcentaje">30.00</descuento>
     </teclado>
 
     <teclado id="tec-04">
@@ -34,8 +31,7 @@
         <formato>60%</formato>
         <precio unidad="EUR">174,99</precio>
         <peso unidad="kg">0.945</peso>
-        <descuento unidad="porcentaje">15.00</descuento>
-        <agotado />
+        <descuento unidad="porcentaje">0.00</descuento>
     </teclado>
 
 </catalogo>
