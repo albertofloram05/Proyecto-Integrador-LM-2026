@@ -8,6 +8,7 @@
         <precio unidad="EUR">228.99</precio>
         <peso unidad="kg">1.736</peso>
         <descuento unidad="porcentaje">0.00</descuento>
+    <disponible/>
     </teclado>
 
     <teclado id="tec-02">
@@ -16,6 +17,7 @@
         <precio unidad="EUR">107.09</precio>
         <peso unidad="kg">0.70</peso>
         <descuento unidad="porcentaje">20.00</descuento>
+        <disponible/>
     </teclado>
 
     <teclado id="tec-03">
@@ -24,6 +26,7 @@
         <precio unidad="EUR">229.99</precio>
         <peso unidad="kg">1.51</peso>
         <descuento unidad="porcentaje">30.00</descuento>
+        <agotado/>
     </teclado>
 
     <teclado id="tec-04">
@@ -32,6 +35,7 @@
         <precio unidad="EUR">174,99</precio>
         <peso unidad="kg">0.945</peso>
         <descuento unidad="porcentaje">0.00</descuento>
+        <disponible/>
     </teclado>
 
 </catalogo>
