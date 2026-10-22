@@ -4,7 +4,7 @@
 * **Usuario:** albertofloram05
 * **Tema:** Catálogo de Teclados Mecánicos Custom
 * **Motivo:** Entrega de evaluación UD1-UD2 de Lenguajes de Marcas.
-* **Palabra del día:** Meta
+* **Palabra del día:** Contexto
 
 ## Qué he hecho en esta entrega
 - Creada la estructura base del proyecto e historial de Git.
