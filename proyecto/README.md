@@ -17,7 +17,7 @@
 - Organización de los productos: Utilizo etiquetas <'br'> y <'hr'> para separar los teclados. Podría mejorar la estructura utilizando bloques semánticos como <'article'> y aplicando CSS para los espacios y separadores.
 - Seguridad de los enlaces externos: Los enlaces que utilizan target="_blank" no incluyen el atributo rel="noopener noreferrer", que mejora la seguridad al abrir páginas externas.
 
-## Mapa del sitio
+## UD3 · Mapa del sitio
 
 | Fichero | title | Qué contiene |
 |---|---|---|
@@ -25,3 +25,16 @@
 | `modelos.html` | Modelos \| Catálogo de Teclados Custom | Catálogo completo con todos los productos y sus datos del archivo XML. |
 | `materiales.html` | Materiales \| Catálogo de Teclados Custom | Información sobre materiales, switches y construcción de teclados. |
 | `contacto.html` | Contacto \| Catálogo de Teclados Custom | Información de contacto y atención de consultas. |
+
+### UD3 · Validación HTML
+
+| Página | Errores detectados por el validador | Correcciones realizadas |
+|---|---|---|
+| `index.html` | Ninguno | 0 |
+| `modelos.html` | Ninguno | 0 |
+| `materiales.html` | Ninguno | 0 |
+| `contacto.html` | Ninguno | 0 |
+
+### UD3 · Qué he hecho en esta unidad
+
+He aprendido a organizar páginas HTML mediante bloques y comentarios, utilizando una jerarquía correcta de títulos. He creado varias páginas para ampliar mi catálogo de teclados mecánicos y he incorporado citas, fichas técnicas y entidades HTML. También he trabajado con Git para registrar los cambios del proyecto. Por último, he validado las páginas para comprobar que cumplen los requisitos de HTML.
