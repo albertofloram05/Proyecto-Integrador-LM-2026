@@ -43,3 +43,8 @@ He aprendido a organizar páginas HTML mediante bloques y comentarios, utilizand
 
 Los datos de la tabla van a ser el nombre de los teclados con su descripción y sus especificaciones.
 Esta tabla será encontrada en el índice de la página, es decir, en el archivo `index.html`.
+
+En cuanto al formulario, será de contacto y aparecerá dentro del archivo `contacto.html`. Este formulario sirve para que los usuarios y clientes que visiten la página web puedan contactar con la empresa o la persona que está dentrás del sitio web.
+
+### Palabra del día
+Día
