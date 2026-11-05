@@ -46,5 +46,15 @@ Esta tabla será encontrada en el índice de la página, es decir, en el archivo
 
 En cuanto al formulario, será de contacto y aparecerá dentro del archivo `contacto.html`. Este formulario sirve para que los usuarios y clientes que visiten la página web puedan contactar con la empresa o la persona que está dentrás del sitio web.
 
+## UD5 · Mapa del sitio
+
+| Fichero | title | Qué contiene |
+|---|---|---|
+| `index.html` | Inicio \| Catálogo de Teclados Custom | Portada, presentación y selección de teclados mecánicos. |
+| `modelos.html` | Modelos \| Catálogo de Teclados Custom | Catálogo completo con todos los productos y sus datos del archivo XML. |
+| `materiales.html` | Materiales \| Catálogo de Teclados Custom | Información sobre materiales, switches y construcción de teclados. |
+| `contacto.html` | Contacto \| Catálogo de Teclados Custom | Información de contacto y atención de consultas. |
+
+
 ### Palabra del día
 Día
