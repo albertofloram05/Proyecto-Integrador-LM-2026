@@ -33,3 +33,13 @@ form p { margin-bottom: 0.8rem; }
 textarea { width: 100%; }
 [required] { border: 2px solid #F2A900; }
 input[type="submit"] { background-color: #1F2A44; color: white; padding: 0.5em 1em; }
+
+/* === Lateral === */
+/* Herencia */
+aside { color: #1F2A44; font-family: Georgia, serif; border: 2px dashed #F2A900; padding: 1rem; border-radius: 8px; }
+aside p { color: #1B1B1B; }
+
+/* === Pie === */
+footer { background-color: #1B1B1B; color: white; text-align: center; padding: 1rem; }
+footer > p { font-size: 0.9rem; }
+#firma-albertofloram05 { color: #F2A900; font-weight: bold; }
