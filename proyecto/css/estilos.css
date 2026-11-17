@@ -9,3 +9,27 @@ header { background-color: #1F2A44; color: white; padding: 1.2rem 5%; min-height
 #logo { font-size: 2.2rem; color: white; }
 .lema { margin: 0.5rem 0 1rem; color: rgb(232, 236, 244); }
 nav a { color: #F2A900; text-decoration: none; font-weight: bold; margin-right: 1em; }
+
+/* === Contenido === */
+section { margin-bottom: 1.5rem; }
+h2 { border-bottom: 3px solid #F2A900; margin-bottom: 0.5rem; }
+h2 + p { font-style: italic; color: gray; margin-bottom: 1rem; }
+.producto { background-color: rgb(232, 236, 244); padding: 0.8rem 1rem; margin-bottom: 1rem; border-radius: 8px; border-left: 6px solid #F2A900; }
+.agotado { color: gray; border-left-color: gray; }
+.precio { font-weight: bold; font-size: 1.2em; }
+figure img { max-width: 100%; }
+video { width: 60vw; max-width: 100%; }
+summary { cursor: pointer; font-weight: bold; }
+
+/* === Tablas === */
+table { border-collapse: collapse; width: 100%; }
+th, td { border: 1px solid #1F2A44; padding: 0.5rem; text-align: left; }
+thead { background-color: #1F2A44; color: white; }
+
+/* === Formulario === */
+fieldset { border: 2px solid #1F2A44; border-radius: 8px; padding: 1rem; margin-bottom: 1rem; }
+legend { font-weight: bold; padding: 0 0.5rem; }
+form p { margin-bottom: 0.8rem; }
+textarea { width: 100%; }
+[required] { border: 2px solid #F2A900; }
+input[type="submit"] { background-color: #1F2A44; color: white; padding: 0.5em 1em; }
