@@ -56,5 +56,8 @@ En cuanto al formulario, será de contacto y aparecerá dentro del archivo `cont
 | `contacto.html` | Contacto \| Catálogo de Teclados Custom | Información de contacto y atención de consultas. |
 
 
-### Palabra del día
-Día
+
+### Tarea 6-7
+Mi paleta: principal #1F2A44 (azul oscuro), secundario rgb(232, 236, 244) (gris azulado claro), acento #F2A900 (ámbar).
+En la captura del inspector, el selector #logo gana a "h1, h2, h3" porque un id es más concreto que una etiqueta, y por eso el color de la regla de grupo aparece tachado.
+Lo que más me ha costado: (escribe aquí con tus palabras).
